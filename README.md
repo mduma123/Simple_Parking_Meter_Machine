@@ -13,4 +13,4 @@ There is so many ways to tackle this function but I decided to keep simple and e
 
     * As for the currency i kept it simple even though there is so many ways to deal with that like the NumberFormat , printf and so many other ways. 
 
-# This function was done is Java as it is one of my favourite languages and definitely this function can be modified in so many ways to make it better.
+This function was done is Java as it is one of my favourite languages and definitely this function can be modified in so many ways to make it better.
